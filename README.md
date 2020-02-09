@@ -1,6 +1,6 @@
 # convulsion
 Parse the event agenda of www.convulsions-sonores.info
-** Dead Project, the agenda is not update anymore (FB had win).**
+**Dead Project, the agenda is not update anymore (FB had win).**
 
 ### Requirements
 * [Python](http://en.wikipedia.org/wiki/Python_(programming_language)) Python 3 interpreter
